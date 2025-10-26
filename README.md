@@ -7,10 +7,8 @@
 
 ## 🛠️ Languages & Tools
 
-![Skill Distribution Pie Chart](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/557ca5a37597ee753e449cdef0ff8dd4/574b2271-56ec-411c-9a4c-502a27913715/2c5673b4.png)
+### Programming Languages 
 
-### Programming Languages
- 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
