@@ -41,10 +41,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub Stats
-![Satyam Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam-6200&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-6200&layout=pie&theme=radical)
-
+![Satyam Kumar's GitHub Stats](https://readme-stats-fast.vercel.app/api?username=Satyam-6200&show_icons=true&theme=radical)
+![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=Satyam-6200&layout=pie&theme=radical)
 ---
 
 ## 🏆 Top Contributed Repositories
